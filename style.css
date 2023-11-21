@@ -1,0 +1,82 @@
+body{
+    font-family: 'Oxygen', sans-serif;
+    background-image: url(https://images.unsplash.com/photo-1606796913825-2b02883605e9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTcwfHxiZWRyb29tJTIwaW50ZXJpb3J8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    background-color: rgb(216, 210, 210);
+      
+}
+
+#container{
+   display: flex;
+   justify-content: center;
+    background-color: rgba(248, 242, 242, 0.4);
+    text-align: center;
+    min-height: 97vh;
+    min-width: 70vw;
+    max-width: 98vw;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+
+
+
+#wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    min-height: 90vh;
+    min-width: 60vw;
+    max-width: 98vw;
+    padding: 20px;
+   
+}
+
+#question{
+    font-size: 25px;
+    font-family: 'Oxygen', sans-serif;
+}
+
+#buttonBox{
+    display: flex;
+    justify-content: space-between;
+}
+
+button{
+    padding: 5px;
+    font-family: 'Oxygen', sans-serif;
+    font-size: 20px;
+    min-width: 15vw;
+    border-radius: 10px;
+    color: black;
+
+}
+
+button:hover{
+    background-color: #926E6F;
+    color: white;
+}
+
+#buttonTwo{
+    margin-left: 10px;
+}
+
+#buttonThree{
+    display: none;
+    margin-left: 10px;
+}
+
+#textBox{
+    margin-top: 80px;
+    
+}
+
+.white{
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    
+}
