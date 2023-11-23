@@ -1,5 +1,8 @@
 # Mattress Matcher App
 
+[![Project Screenshot](https://cdn.glitch.global/251bf5b8-819c-4ca6-904c-0d51b32dc0bf/A2E54820-A352-4A43-8CCE-7756686BBCAF_1_105_c.jpeg?v=1667774361388)](https://jade-fluff-twill.glitch.me/)
+
+
 Welcome to the Mattress Matcher app, a simple tool designed to help you find the perfect mattress based on your preferences and needs.
 
 ## Table of Contents
